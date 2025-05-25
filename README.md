@@ -1,1 +1,2 @@
-This project demonstrates Git branching and merging.
+# GitHub Task: Branching and Merge Conflicts
+This task demonstrates branching, merging, and conflict resolution.
